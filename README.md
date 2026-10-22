@@ -1,0 +1,1 @@
+# Heteroscedastic-and-homoscedastic-Shrunken-Centroid-Classifiers-Python
